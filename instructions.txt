@@ -1,0 +1,31 @@
+Intro to Coding
+===============
+Profile picture
+Calvin Tan [use h1]
+Frontend Developer [use h2]
+
+About Me
+---
+I love to create works that's fun and creative. I get my inspiration from nature and objects around me. I enjoy teaching at General Assembly [https://generalassemb.ly/]
+
+Skills
+---
+Below are coding languages I want to master, starting with:
+1. HTML
+2. CSS
+3. JavaScript (and not Java!)
+
+Hobbies
+---
+I enjoy the following in my spare time:
+- Watching movies
+- Reading books
+- Listening to podcasts
+
+Follow
+---
+Made with love by Calvin
+- Facebook [use FB icon and link]
+- Twitter [use Twitter icon and link]
+- LinkedIn [use LinkedIn icon and link]
+- Instagram [use Instagram icon and link]
